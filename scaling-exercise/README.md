@@ -1,6 +1,6 @@
 ## Scaling exercise application ##
 
-This application is used in https://devopswithdocker.com. The purpose is to use scaling to see a a meaningful difference in the application itself. 
+The purpose is to use scaling to see a a meaningful difference in the application itself. 
 
 The "calculator" service has a user interface to send calculations to the "compute" service.
 
